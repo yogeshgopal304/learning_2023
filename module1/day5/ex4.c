@@ -14,7 +14,6 @@ int main(){
 
     getchar();
 
-    
     printf("enter the second string :");
     scanf("%[^\n]s\n",str2);
     printf("enter the number of rotations for a second string:");
